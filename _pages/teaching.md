@@ -1,12 +1,35 @@
 ---
+title: videos
+permalink: "/videos/"
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: drone shots
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/F_iM1a_XGfQ" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/F-fz3n0HPPY" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/EZuJFUGk-Sc" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/t6r38yqBDLc" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/MBvbrG8a6CE" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtube.com/embed/CM0VzduBTQE" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
