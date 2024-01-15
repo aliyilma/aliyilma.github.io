@@ -8,4 +8,3 @@ img: assets/img/project3.jpg
 redirect: https://www.davetlis.in
 importance: 1
 ---
-
