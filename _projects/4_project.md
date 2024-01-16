@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: participatory mapping
+description: an ict-based participatory planning and design tool.
 img:
-importance: 3
-category: fun
+importance: 1
+redirect: https://aliyilma.github.io/comapping/
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
