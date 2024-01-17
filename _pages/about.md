@@ -9,7 +9,7 @@ profile:
   image_circular: true
   more_info: |
     <p>research assistant</p>
-    <p>urban planner & designer</p>
+    <p>urban designer</p>
 news: false
 latest_posts: true
 selected_papers: false
