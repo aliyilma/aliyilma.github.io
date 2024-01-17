@@ -2,7 +2,7 @@
 title: about
 permalink: "/"
 layout: about
-subtitle: hi, its me!
+subtitle:
 profile:
   align: right
   image: prof_pic.jpg
