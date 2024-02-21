@@ -1,7 +1,7 @@
 ---
 layout: page
 title: istanbus
-description: istanbul's daily bus travel pattern.
+description: daily bus travel pattern of istanbul
 img: assets/img/project_istanbus.gif
 importance: 4
 category: work
