@@ -1,7 +1,7 @@
 ---
 layout: page
 title: traffic density
-description: istanbul's spatio-temporal traffic density map.
+description: spatio-temporal traffic density map of istanbul
 img: assets/img/project_traffic.jpg
 importance: 2
 category: work
