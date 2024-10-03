@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: istanbul culture inventory
 description: istanbul culture inventory, derived from data.istanbul
 img: assets/img/project_traffic.jpg
