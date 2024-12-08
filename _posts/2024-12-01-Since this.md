@@ -7,6 +7,8 @@ tags: linkedin
 description: Since this is a
 ---
 
+> This is a Linkedin post reflection. Original source:
+
 Since this is a "work" platform, let me share a brilliant piece of work.
 
 Forensic Architecture has released interactive spatio-temporal map with almost 2.000 incidents, accompanied by comprehensive 827 page report documenting Israeli attacks on Gaza since October 2, 2023. Through evidence-based spatial and pattern analysis, the report demonstrates that these attacks are systematic and organized, not random, with recurring patterns targeting civilians.
@@ -20,5 +22,9 @@ Forensic Architecture has released interactive spatio-temporal map with almost 2
 Source: https://lnkd.in/d-RVrQEJ
 
 #FreePalestine #FreeGaza
+
+
+{% include figure.liquid loading="eager" path="https://media.licdn.com/dms/image/v2/D4D22AQGnEx2iHaUWQg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733082325963?e=1736380800&v=beta&t=RpOR6SNVL8N7AMVke75n1SnOrwPD047j3srU9OCKIK8" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="https://media.licdn.com/dms/image/v2/D4D22AQGnEx2iHaUWQg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733082325963?e=1736380800&v=beta&t=RpOR6SNVL8N7AMVke75n1SnOrwPD047j3srU9OCKIK8" class="img-fluid rounded z-depth-1" %}
 
 https://media.licdn.com/dms/image/v2/D4D22AQGnEx2iHaUWQg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733082325963?e=1736380800&v=beta&t=RpOR6SNVL8N7AMVke75n1SnOrwPD047j3srU9OCKIK8
