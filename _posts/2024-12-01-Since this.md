@@ -5,7 +5,6 @@ date: 2024-12-01 19:45:26
 categories: linkedin
 tags: linkedin
 description: Since this is a
-thumbnail: https://media.licdn.com/dms/image/v2/D4D22AQGnEx2iHaUWQg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733082325963?e=1736380800&v=beta&t=RpOR6SNVL8N7AMVke75n1SnOrwPD047j3srU9OCKIK8
 ---
 
 > This is a Linkedin post reflection. Original source:
@@ -31,6 +30,6 @@ Source: https://lnkd.in/d-RVrQEJ
     <div class="col-sm mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="https://media.licdn.com/dms/image/v2/D4D22AQGnEx2iHaUWQg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733082325963?e=1736380800&v=beta&t=RpOR6SNVL8N7AMVke75n1SnOrwPD047j3srU9OCKIK8" class="img-fluid rounded z-depth-1" %}
   </div>
-  </div>
+</div>
 
 
