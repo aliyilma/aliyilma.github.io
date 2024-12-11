@@ -12,8 +12,7 @@ I remembered the animation I made 5 years ago for the Istanbul rail system map, 
 [https://lnkd.in/dHWAf7A6](https://lnkd.in/dHWAf7A6) Samet Keskin
 
 <hr>
-<div class="row mt-3">
+<div class="row mt-3 d-flex justify-content-center align-items-center">
 {% include video.liquid path="https://dms.licdn.com/playlist/vid/v2/D4D05AQH7FqWISph8cQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1725811327927?e=1734526800&v=beta&t=qwkIyZrhnVeglhCk1-CBZ1lq_AwripdmEztDbEOWFMs" class="img-fluid rounded z-depth-1" width="800" height="450" controls=true autoplay=true %}
-
 
 </div>
