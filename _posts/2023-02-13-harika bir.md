@@ -9,7 +9,7 @@ categories: linkedin
 
 harika bir dayanışma ile ortaya çıkan gönüllü ekip.
 ```markdown
-AYA: Açık Yazılım Ağı
+__**AYA: Açık Yazılım Ağı**__
 
 afetharita.com ile STK’lar aracılığıyla teyit edilen yardım noktalarını haritadan filtreleyerek görüntüleyebilir, yardımlarınızı bu uygulama ile organize edebilirsiniz.
 
