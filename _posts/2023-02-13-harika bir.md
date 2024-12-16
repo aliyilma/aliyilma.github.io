@@ -8,12 +8,17 @@ categories: linkedin
 [`This is an automated Linkedin post reflection`](https://www.linkedin.com/feed/update/urn:li:activity:7031018542254731265)
 
 harika bir dayanışma ile ortaya çıkan gönüllü ekip.
-`AYA: Açık Yazılım Ağı:`
-`afetharita.com ile STK’lar aracılığıyla teyit edilen yardım noktalarını haritadan filtreleyerek görüntüleyebilir, yardımlarınızı bu uygulama ile organize edebilirsiniz.
+
+```isim
+AYA: Açık Yazılım Ağı:
+```
+```alinti
+afetharita.com ile STK’lar aracılığıyla teyit edilen yardım noktalarını haritadan filtreleyerek görüntüleyebilir, yardımlarınızı bu uygulama ile organize edebilirsiniz.
 
 📍 https://afetharita.com
 
-#AYA #AçıkYazılımAğı #AfetHarita #AfetBilgi #Benİyiyim #DepremYardım #AfetDestek`
+#AYA #AçıkYazılımAğı #AfetHarita #AfetBilgi #Benİyiyim #DepremYardım #AfetDestek
+```
 
 <hr>
 
