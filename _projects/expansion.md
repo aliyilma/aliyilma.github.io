@@ -2,6 +2,7 @@
 layout: page
 title: expansion sparks
 description: expansion sparks of istanbul
+img: assets/img/project_expansion.gif
 importance: 5
 category: work
 ---
