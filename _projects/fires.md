@@ -2,7 +2,7 @@
 layout: default
 title: forest fires
 description: türkiye forest fires, derived from effis
-img: assets/img/project_traffic.jpg
+img: assets/img/project_fire.png
 importance: 2
 category: work
 ---
